@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 50px 150px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content:space-around;
+    text-align: center;
+}
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+    text-align: center;
+  }
+
+h3 {
+    color: #555;
+    line-height: 1.5;
+}
